@@ -1,0 +1,131 @@
+INFO - __main__ -  Starting Logger....
+INFO - __main__ -  2019-03-27 09:30 AM Logger Started...
+INFO - __main__ -  Light Start time : 07:54 PM
+INFO - __main__ -  Light Stop time  : 07:12 AM
+INFO - __main__ -  Difference : 11:18:00  (HH:MM:SS)
+INFO - __main__ -  Minutes    : 678
+INFO - __main__ -  Seconds    : 40680
+
+INFO - __main__ -  2019-03-27 10:00 AM Gatherng Weather Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by   : https://weather.com/en-CA/weather/today/l/CAXX0619:1:CA
+INFO - __main__ -  Current Temp       : 1°C
+INFO - __main__ -  Condition Now      : Partly Cloudy
+INFO - __main__ -  Feels Like         : -3°C
+INFO - __main__ -  Todays Forecast    : H 5° / L -3°
+INFO - __main__ -  UV Index           : UV Index 1 of 10
+INFO - __main__ -  Wind               : NNW 13 km/h 
+INFO - __main__ -  Humidity           : 60%
+INFO - __main__ -  Dew Point          : -6°C
+INFO - __main__ -  Pressure           : 102.27 Kpa
+INFO - __main__ -  Visibility         : 16.1 km
+
+INFO - __main__ -  2019-03-27 10:00 AM Gatherng Solar Data...
+INFO - __main__ -  Sunrise and sunset times in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/sun/@6028050
+INFO - __main__ -  Current Time     : Mar 27, 2019 at 10:00:05 am
+INFO - __main__ -  Sun Direction    : 120° Southeast
+INFO - __main__ -  Sun Altitude     : 22.5°
+INFO - __main__ -  Equinox/Solstice : Jun 21, 2019 9:54 am (Summer)
+INFO - __main__ -  Sunrise          : 07:12 AM
+INFO - __main__ -  Sunset           : 07:54 PM
+INFO - __main__ -  Sunrise Direction:  84° East
+INFO - __main__ -  Sunset Direction : 276° West
+
+INFO - __main__ -  2019-03-27 10:00 AM Gatherng Lunar Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/moon/@6028050
+INFO - __main__ -  Current Time       : Mar 27, 2019 at 10:00:08 am
+INFO - __main__ -  Moon Direction     : 219° Southwest
+INFO - __main__ -  Moon Altitude      : 5.0°
+INFO - __main__ -  Moon Distance      : 394,845 km
+INFO - __main__ -  Next Full Moon     : Apr 19, 2019
+INFO - __main__ -  Next New Moon      : Apr 5, 2019
+INFO - __main__ -  Next Moonset       : Today 10:58 am
+INFO - __main__ -  Moon Phase         : Waning Gibbous
+
+INFO - __main__ -  2019-03-27 11:00 AM Gatherng Weather Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by   : https://weather.com/en-CA/weather/today/l/CAXX0619:1:CA
+INFO - __main__ -  Current Temp       : 2°C
+INFO - __main__ -  Condition Now      : Partly Cloudy
+INFO - __main__ -  Feels Like         : -2°C
+INFO - __main__ -  Todays Forecast    : H 5° / L -3°
+INFO - __main__ -  UV Index           : UV Index 1 of 10
+INFO - __main__ -  Wind               : NNW 14 km/h 
+INFO - __main__ -  Humidity           : 55%
+INFO - __main__ -  Dew Point          : -7°C
+INFO - __main__ -  Pressure           : 102.3 Kpa
+INFO - __main__ -  Visibility         : 16.1 km
+
+INFO - __main__ -  2019-03-27 11:00 AM Gatherng Solar Data...
+INFO - __main__ -  Sunrise and sunset times in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/sun/@6028050
+INFO - __main__ -  Current Time     : Mar 27, 2019 at 11:00:21 am
+INFO - __main__ -  Sun Direction    : 135° Southeast
+INFO - __main__ -  Sun Altitude     : 29.4°
+INFO - __main__ -  Equinox/Solstice : Jun 21, 2019 9:54 am (Summer)
+INFO - __main__ -  Sunrise          : 07:12 AM
+INFO - __main__ -  Sunset           : 07:54 PM
+INFO - __main__ -  Sunrise Direction:  84° East
+INFO - __main__ -  Sunset Direction : 276° West
+
+INFO - __main__ -  2019-03-27 11:00 AM Gatherng Lunar Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/moon/@6028050
+INFO - __main__ -  Current Time       : Mar 27, 2019 at 11:00:24 am
+INFO - __main__ -  Moon Direction     : 231° Southwest
+INFO - __main__ -  Moon Altitude      : -0.4°
+INFO - __main__ -  Moon Distance      : 395,048 km
+INFO - __main__ -  Next Full Moon     : Apr 19, 2019
+INFO - __main__ -  Next New Moon      : Apr 5, 2019
+INFO - __main__ -  Next Moonrise      : Tomorrow 4:09 am
+INFO - __main__ -  Moon Phase         : Waning Gibbous
+
+INFO - __main__ -  2019-03-27 12:00 PM Gatherng Weather Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by   : https://weather.com/en-CA/weather/today/l/CAXX0619:1:CA
+INFO - __main__ -  Current Temp       : 2°C
+INFO - __main__ -  Condition Now      : Mostly Cloudy
+INFO - __main__ -  Feels Like         : -2°C
+INFO - __main__ -  Todays Forecast    : H 5° / L -4°
+INFO - __main__ -  UV Index           : UV Index 2 of 10
+INFO - __main__ -  Wind               : NNW 14 km/h 
+INFO - __main__ -  Humidity           : 52%
+INFO - __main__ -  Dew Point          : -7°C
+INFO - __main__ -  Pressure           : 102.3 Kpa
+INFO - __main__ -  Visibility         : 16.1 km
+
+INFO - __main__ -  2019-03-27 12:00 PM Gatherng Solar Data...
+INFO - __main__ -  Sunrise and sunset times in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/sun/@6028050
+INFO - __main__ -  Current Time     : Mar 27, 2019 at 12:00:15 pm
+INFO - __main__ -  Sun Direction    : 151° Southeast
+INFO - __main__ -  Sun Altitude     : 34.6°
+INFO - __main__ -  Equinox/Solstice : Jun 21, 2019 9:54 am (Summer)
+INFO - __main__ -  Sunrise          : 07:12 AM
+INFO - __main__ -  Sunset           : 07:54 PM
+INFO - __main__ -  Sunrise Direction:  84° East
+INFO - __main__ -  Sunset Direction : 276° West
+
+INFO - __main__ -  2019-03-27 12:00 PM Gatherng Lunar Data...
+INFO - __main__ -  Moonrise, Moonset, and Moon Phase in Lac La Biche
+INFO - __main__ -  Response from Site : 200
+INFO - __main__ -  Data provided by : https://www.timeanddate.com/moon/@6028050
+INFO - __main__ -  Current Time       : Mar 27, 2019 at 12:00:18 pm
+INFO - __main__ -  Moon Direction     : 242° Southwest
+INFO - __main__ -  Moon Altitude      : -8.0°
+INFO - __main__ -  Moon Distance      : 395,249 km
+INFO - __main__ -  Next Full Moon     : Apr 19, 2019
+INFO - __main__ -  Next New Moon      : Apr 5, 2019
+INFO - __main__ -  Next Moonrise      : Tomorrow 4:09 am
+INFO - __main__ -  Moon Phase         : Waning Gibbous
+
